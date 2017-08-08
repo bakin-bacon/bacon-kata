@@ -57,3 +57,16 @@ __Answer:__ 22 minutes
 
 __Answer:__ 18 minutes
 
+### Multiple bacon'ings
+
+| Duration | Feedback |
+| --- | --- |
+| 20:00 | too crispy |
+| 18:00 | too crispy |
+| 16:00 | too floppy |
+| 17:00 | too crispy |
+| 16:30 | perfect |
+| 16:30 | too floppy |
+
+__Answer:__ 16 minutes
+
