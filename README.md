@@ -72,3 +72,10 @@ __Answer:__ 18 minutes
 
 __Answer:__ 16 minutes
 
+## Canonical Implementation
+
+If you're looking for the canonical implementation (with tests) take a look here:
+
+* code - https://github.com/bakin-bacon/app/blob/master/BaconOptimizer.js
+* tests - https://github.com/bakin-bacon/app/blob/master/App.test.js
+
