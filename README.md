@@ -3,14 +3,14 @@ Determine Perfect Bakin' Bacon Timing
 
 ## The Bacon Method
 
-The [Bacon Method](https://www.baconmethod.com) is a way to make perfect bacon, __every time__.
+The [Bacon Method](http://www.baconmethod.com) is a way to make perfect bacon, __every time__.
 
 __Bacon Method Summary:__
 
-1 Put bacon on a cookie sheet (or other oven safe pan with sides)
-1 Put pan of bacon into cold oven
-1 Turn oven to 400 degrees Fahrenheit
-1 Cook bacon for 20 minutes
+1. Put bacon on a cookie sheet (or other oven safe pan with sides)
+1. Put pan of bacon into cold oven
+1. Turn oven to 400 degrees Fahrenheit
+1. Cook bacon for 20 minutes
 
 The main variable is time: __how long should we cook the bacon?__
 
@@ -26,6 +26,8 @@ Some requirements:
 * If the bacon was too floppy the time should be adjust to be more.
 * If the bacon was just right, the time should not be adjusted.
 * Time adjustment should be cut in half each time the user changes their answer from too crispy to too floppy or vice versa.
+  * Time adjustments should start at 2:00.
+  * Time adjustments should be no less than 0:30.
 
 ## Some examples
 
