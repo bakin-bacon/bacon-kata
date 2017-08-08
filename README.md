@@ -68,7 +68,7 @@ __Answer:__ 18 minutes
 | 16:00 | too floppy |
 | 17:00 | too crispy |
 | 16:30 | perfect |
-| 16:30 | too floppy |
+| 16:30 | too crispy |
 
 __Answer:__ 16 minutes
 
